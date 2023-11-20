@@ -1,4 +1,4 @@
-============================    REACT JS INTRODCUTION    ==================================
+============================   1. REACT JS INTRODCUTION    ==================================
 
 * React is a javaScript Library - building User Interface
 * React is used to build single Page Applications
@@ -32,13 +32,18 @@ Features:-
   - DOM
   - Performance
   - easy to learn
-========================================================================================
+==================================  2.ENVIRONMENTAL SETUP   ================================================
 React Software Installation:-
 
 Open --> Visual studio code  --> terminal --> new terminal
->> npm install-g create-react-app  // Only one time at installation
->> npx create-react-app (Appnamefolder)
+>> npm install-g create-react-app        // Only one time at installation
+>> npx create-react-app (Foldername - User defined)
+>> cd (Foldername)                      //  (i.e) cd Myapp
+>> cd(Foldername)>> npm start
+It automatically loads and provide a url as 
+For localhost --> https://localhost:3000/ or https://localhost:3000/index.html
 
+==================================  3.REACT APP FOLDER STRUCTURE =============================================
 
 
 
