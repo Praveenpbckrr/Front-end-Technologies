@@ -1,0 +1,44 @@
+============================    REACT JS INTRODCUTION    ==================================
+
+* React is a javaScript Library - building User Interface
+* React is used to build single Page Applications
+* React allows us to create reusuable UI Component
+* React is a declarativ; efficient and flexible JavaScript library for building user Interfaces
+* It's V in 'MVC'. ReactJs is an open-source
+* Component-based front end library responsible only for the view layer of the application
+* The declarative view makes your code more predictable and easier to debug
+========================================================================================
+Note : 
+React is not a framework
+* It is just a library developed by Facebook
+* To solve some problems that we are facing earlier
+========================================================================================
+ReactJs --> History
+* June   2022   --> Current Version of ReactJs V.18.2.0
+* August 2021   --> Previous version of ReactJs is V17.0.2
+* July   2013   --> Previous version of ReactJs is V17.0.2
+* ReactJs was first used in 2011 for Facebook's Newsfeed Features 
+* Facebook software Engineer --> Jordan Walke Created it.
+========================================================================================
+How does React work?
+* React creates a VIRTUAL DOM in Memory
+* Instead of Manipulating the browser's DOM directly
+* Where it does all the neccessary manipulating, before making the changes in the browser DOM
+
+Features:-
+  - jsx (javaScritp XML)
+  - Components
+  - one way building
+  - DOM
+  - Performance
+  - easy to learn
+========================================================================================
+React Software Installation:-
+
+Open --> Visual studio code  --> terminal --> new terminal
+>> npm install-g create-react-app  // Only one time at installation
+>> npx create-react-app (Appnamefolder)
+
+
+
+
